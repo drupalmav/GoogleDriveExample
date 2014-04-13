@@ -153,6 +153,8 @@ public class GoogleDriveMainActivity extends Activity implements ConnectionCallb
         }
     }
 
+    //This comment added by Neil 
+    
     @Override
     public void onConnectionFailed(ConnectionResult result) {
         // Called whenever the API client fails to connect.
